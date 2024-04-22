@@ -27,7 +27,7 @@ Node.js: JavaScript runtime for building scalable and fast server-side applicati
 
 Installation
 clone repository
-git clone https://github.com/yourusername/food-recipe-app.git
+git clone https://github.com/ritahchanger/food-recipe-app.git
 
 Install dependencies
 cd food-recipe-app
